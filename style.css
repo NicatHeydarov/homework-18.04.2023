@@ -1,0 +1,62 @@
+
+#N .n .box{
+    height: 110px;
+    width: 740px;
+    background-color: gray;
+    
+}
+#N .n .box::before{
+    content:'01+0001' ;
+}
+
+#boxes .wrapper .box{
+    height: 100px;
+    width: 150px;
+    background-color: gray;
+    margin: 20px;
+}
+#boxes .wrapper{
+    display: flex;
+}
+
+#qutular .qutu .box{
+    height: 100px;
+    width: 150px;
+    background-color: gray;
+    margin: 20px;
+}
+
+#qutular .qutu{
+    display: flex;
+}
+
+#A .a .box{
+    height: 100px;
+    width: 150px;
+    background-color: gray;
+    margin: 20px;
+}
+#A .a{
+    display: flex;
+}
+#B .b .box{
+    height: 100px;
+    width: 150px;
+    background-color: gray;
+    margin: 20px;
+}
+#B .b{
+    display: flex;
+}
+#C .c .box{
+    height: 100px;
+    width: 150px;
+    background-color: gray;
+    margin: 20px;
+}
+#C .c{
+    display: flex;
+}
+.body{
+    background-color: aqua;
+}
